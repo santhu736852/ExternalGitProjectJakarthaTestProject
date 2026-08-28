@@ -7,6 +7,11 @@ packages:
   gitUrl: https://github.com/santhu736852
   gitUsername: santhu736852
   gitBranch: main
+- name: Package2
+  gitServerName: GH_SK_Shared
+  gitUrl: https://github.com/santhu736852
+  gitUsername: santhu736852
+  gitBranch: main
 services:
 - serviceName: project.externalgitprojectjakarthatest.integrations:TestFlow1
   packages:
